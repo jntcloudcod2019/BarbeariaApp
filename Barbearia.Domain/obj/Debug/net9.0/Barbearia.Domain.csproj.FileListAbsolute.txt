@@ -1,0 +1,4 @@
+/Users/worldgames/Documents/ESTUDOS/PROJETOS/BarbeariaApp/Barbearia.Domain/obj/Debug/net9.0/Barbearia.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/worldgames/Documents/ESTUDOS/PROJETOS/BarbeariaApp/Barbearia.Domain/obj/Debug/net9.0/Barbearia.Domain.AssemblyInfoInputs.cache
+/Users/worldgames/Documents/ESTUDOS/PROJETOS/BarbeariaApp/Barbearia.Domain/obj/Debug/net9.0/Barbearia.Domain.AssemblyInfo.cs
+/Users/worldgames/Documents/ESTUDOS/PROJETOS/BarbeariaApp/Barbearia.Domain/obj/Debug/net9.0/Barbearia.Domain.csproj.CoreCompileInputs.cache

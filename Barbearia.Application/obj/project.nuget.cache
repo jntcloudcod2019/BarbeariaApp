@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "MxOLWc7+bGQ=",
+  "success": true,
+  "projectFilePath": "/Users/worldgames/Documents/ESTUDOS/PROJETOS/BarbeariaApp/Barbearia.Application/Barbearia.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/worldgames/.nuget/packages/fluentvalidation/12.0.0/fluentvalidation.12.0.0.nupkg.sha512",
+    "/Users/worldgames/.nuget/packages/mediatr/12.5.0/mediatr.12.5.0.nupkg.sha512",
+    "/Users/worldgames/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/worldgames/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
