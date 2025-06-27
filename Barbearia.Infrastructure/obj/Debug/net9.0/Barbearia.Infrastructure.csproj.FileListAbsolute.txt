@@ -1,0 +1,13 @@
+/Users/worldgames/Documents/ESTUDOS/PROJETOS/BarbeariaApp/Barbearia.Infrastructure/bin/Debug/net9.0/Barbearia.Infrastructure.deps.json
+/Users/worldgames/Documents/ESTUDOS/PROJETOS/BarbeariaApp/Barbearia.Infrastructure/bin/Debug/net9.0/Barbearia.Infrastructure.dll
+/Users/worldgames/Documents/ESTUDOS/PROJETOS/BarbeariaApp/Barbearia.Infrastructure/bin/Debug/net9.0/Barbearia.Infrastructure.pdb
+/Users/worldgames/Documents/ESTUDOS/PROJETOS/BarbeariaApp/Barbearia.Infrastructure/obj/Debug/net9.0/Barbearia.Infrastructure.csproj.AssemblyReference.cache
+/Users/worldgames/Documents/ESTUDOS/PROJETOS/BarbeariaApp/Barbearia.Infrastructure/obj/Debug/net9.0/Barbearia.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/worldgames/Documents/ESTUDOS/PROJETOS/BarbeariaApp/Barbearia.Infrastructure/obj/Debug/net9.0/Barbearia.Infrastructure.AssemblyInfoInputs.cache
+/Users/worldgames/Documents/ESTUDOS/PROJETOS/BarbeariaApp/Barbearia.Infrastructure/obj/Debug/net9.0/Barbearia.Infrastructure.AssemblyInfo.cs
+/Users/worldgames/Documents/ESTUDOS/PROJETOS/BarbeariaApp/Barbearia.Infrastructure/obj/Debug/net9.0/Barbearia.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/worldgames/Documents/ESTUDOS/PROJETOS/BarbeariaApp/Barbearia.Infrastructure/obj/Debug/net9.0/Barbearia.Infrastructure.sourcelink.json
+/Users/worldgames/Documents/ESTUDOS/PROJETOS/BarbeariaApp/Barbearia.Infrastructure/obj/Debug/net9.0/Barbearia.Infrastructure.dll
+/Users/worldgames/Documents/ESTUDOS/PROJETOS/BarbeariaApp/Barbearia.Infrastructure/obj/Debug/net9.0/refint/Barbearia.Infrastructure.dll
+/Users/worldgames/Documents/ESTUDOS/PROJETOS/BarbeariaApp/Barbearia.Infrastructure/obj/Debug/net9.0/Barbearia.Infrastructure.pdb
+/Users/worldgames/Documents/ESTUDOS/PROJETOS/BarbeariaApp/Barbearia.Infrastructure/obj/Debug/net9.0/ref/Barbearia.Infrastructure.dll

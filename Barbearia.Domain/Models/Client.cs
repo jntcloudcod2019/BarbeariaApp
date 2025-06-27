@@ -4,7 +4,7 @@ using Barbearia.Domain.Models;
 
 namespace Barbearia.Domain.Models
 {
-    public class Clients
+    public class Client
     {
         [Key]
         public Guid ClientID { get; set; }

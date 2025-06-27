@@ -1,12 +1,9 @@
 {
   "version": 2,
-  "dgSpecHash": "i4N1W4bi2S8=",
+  "dgSpecHash": "GaxJ/oEIV8M=",
   "success": true,
   "projectFilePath": "/Users/worldgames/Documents/ESTUDOS/PROJETOS/BarbeariaApp/Barbearia.Infrastructure/Barbearia.Infrastructure.csproj",
   "expectedPackageFiles": [
-    "/Users/worldgames/.nuget/packages/fluentvalidation/12.0.0/fluentvalidation.12.0.0.nupkg.sha512",
-    "/Users/worldgames/.nuget/packages/mediatr/12.5.0/mediatr.12.5.0.nupkg.sha512",
-    "/Users/worldgames/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
     "/Users/worldgames/.nuget/packages/microsoft.entityframeworkcore/9.0.6/microsoft.entityframeworkcore.9.0.6.nupkg.sha512",
     "/Users/worldgames/.nuget/packages/microsoft.entityframeworkcore.abstractions/9.0.6/microsoft.entityframeworkcore.abstractions.9.0.6.nupkg.sha512",
     "/Users/worldgames/.nuget/packages/microsoft.entityframeworkcore.analyzers/9.0.6/microsoft.entityframeworkcore.analyzers.9.0.6.nupkg.sha512",
@@ -23,15 +20,5 @@
     "/Users/worldgames/.nuget/packages/npgsql/9.0.3/npgsql.9.0.3.nupkg.sha512",
     "/Users/worldgames/.nuget/packages/npgsql.entityframeworkcore.postgresql/9.0.4/npgsql.entityframeworkcore.postgresql.9.0.4.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
-      "projectPath": "/Users/worldgames/Documents/ESTUDOS/PROJETOS/BarbeariaApp/Barbearia.Infrastructure/Barbearia.Infrastructure.csproj",
-      "warningLevel": 1,
-      "filePath": "/Users/worldgames/Documents/ESTUDOS/PROJETOS/BarbeariaApp/Barbearia.Infrastructure/Barbearia.Infrastructure.csproj",
-      "targetGraphs": []
-    }
-  ]
+  "logs": []
 }

@@ -236,11 +236,7 @@
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
-            "projectReferences": {
-              "/Users/worldgames/Documents/ESTUDOS/PROJETOS/BarbeariaApp/Barbearia.Application/Barbearia.Application.csproj": {
-                "projectPath": "/Users/worldgames/Documents/ESTUDOS/PROJETOS/BarbeariaApp/Barbearia.Application/Barbearia.Application.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
